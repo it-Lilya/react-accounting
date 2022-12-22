@@ -1,0 +1,29 @@
+.container {
+    margin: auto;
+    width: 50%;
+}
+
+.table {
+    margin-top: 50px;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding: 10px
+}
+
+.result-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+li {
+    list-style-type: none;
+    padding-bottom: 20px;
+}
+
+.paragraph {
+    display: flex;
+    justify-content: space-between;
+}
+.delete {
+    width: 15px
+}
