@@ -1,9 +1,9 @@
 import './App.css';
-import Readme from './components';
+import {Accouting} from './components/Accouting/Accouting';
 
 function App() {
   return (
-    <Readme />
+    <Accouting />
   );
 }
 
